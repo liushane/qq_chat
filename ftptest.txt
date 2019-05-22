@@ -2,3 +2,9 @@
 如果您需要安装， 您不妨下载最近稳定的版本。 就是那个以没有被标记作为alpha或Beta发行的最高的版本。目前最稳定的版本是Python3.0以上
 如果你使用的操作系统是Windows：当前最稳定的Windows版本下载是"Python 3.7.3 for Windows"
 如果你使用的是Mac，MacOS 10.2 (Jaguar), 10.3 (Panther) and 10.4 (Tiger)已经集成安装了Python，但是你大概需要安装最近通用的构架(build)。
+
+
+nihao
+你好
+好ｄｆｄｓｄｆｄｓｆ
+哈哈　
